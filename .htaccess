@@ -1,0 +1,3 @@
+# Page 404 ERROR
+
+ErrorDocument 404 http://localhost:8080/gymfit/404.php
